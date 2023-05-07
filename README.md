@@ -3,7 +3,7 @@
 ## Blog
 https://medium.com/@202051038/how-to-deploy-an-html-project-from-the-jenkins-pipeline-using-docker-aws-ec2-and-the-ecr-and-ecs-21774ca62af5
 ## Description
-For this HTML project, I develop the Jenkins Pipeline. I defined 5 stage in the pipeline:
+For this HTML project, I develop the multi branch Jenkins Pipeline. I defined 5 stage in the pipeline:
 
 1. Project cloned from github
 2. Using Dockerfile, create a Docker artifact.
